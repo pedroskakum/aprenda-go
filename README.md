@@ -27,3 +27,6 @@ https://github.com/adonovan/gopl.io/
 
 playground:
 https://go.dev/play/
+
+routines e channels:
+https://www.youtube.com/watch?v=B4NL0rMvXMg
