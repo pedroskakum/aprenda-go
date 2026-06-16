@@ -32,3 +32,9 @@ https://go.dev/play/
 
 aula sobre routines e channels:
 https://www.youtube.com/watch?v=B4NL0rMvXMg
+
+organizacao de projetos:
+https://www.youtube.com/watch?v=OFud4iPuAH8
+
+golang standards - projeto exemplo de como organizar os projetos em go:
+https://github.com/golang-standards/project-layout
